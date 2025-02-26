@@ -44,7 +44,7 @@
 ## Astro
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄  A curated list of privacy &amp; security-focused software and services | Lissy93 | 7322 |
+| 1 |  [awesome-privacy](https://github.com/Lissy93/awesome-privacy) | 🦄  A curated list of privacy &amp; security-focused software and services | Lissy93 | 7323 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -126,7 +126,7 @@
 ## HTML
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 351170 |
+| 1 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 351171 |
 | 2 |  [debounced](https://github.com/hopsoft/debounced) | Debounced versions of standard DOM events | hopsoft | 93 |
 | 3 |  [hyperui](https://github.com/markmead/hyperui) | Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 | markmead | 10856 |
 
@@ -142,7 +142,7 @@
 ## JSON
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary | upptime | 15912 |
+| 1 |  [upptime](https://github.com/upptime/upptime) | ⬆️ GitHub Actions uptime monitor &amp; status page by @AnandChowdhary | upptime | 15913 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -194,7 +194,7 @@
 ## Lua
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [typr](https://github.com/nvzone/typr) | Most Beautiful Typing practice plugin for Neovim with dashboard | nvzone | 1038 |
+| 1 |  [typr](https://github.com/nvzone/typr) | Most Beautiful Typing practice plugin for Neovim with dashboard | nvzone | 1039 |
 | 2 |  [jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim) | ❴🦋❵ Fly through your JSON / XML / YAML files with ease. Search ✨ blazingly fast ✨ for keys via Telescope. | Myzel394 | 136 |
 | 3 |  [mood-nvim](https://github.com/otavioschwanck/mood-nvim) | A Neovim configuration for Rails and Javascript | otavioschwanck | 100 |
 | 4 |  [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) | A launch point for your personal nvim configuration | nvim-lua | 22088 |
@@ -252,7 +252,7 @@
 | 23 |  [engineeringladders](https://github.com/jorgef/engineeringladders) | A framework for Engineering Managers | jorgef | 8116 |
 | 24 |  [vim-curriculum](https://github.com/cjavdev/vim-curriculum) | Collection of vim resources and emojis :+1: | cjavdev | 43 |
 | 25 |  [ruby-best-practices-list](https://github.com/hexdevs/ruby-best-practices-list) | A list of well-written Ruby codebases and resources to help you extract and apply best practices in your Ruby apps. | hexdevs | 159 |
-| 26 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 218174 |
+| 26 |  [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | awesome-selfhosted | 218176 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -296,7 +296,7 @@
 | 6 |  [litestack](https://github.com/oldmoe/litestack) |  | oldmoe | 1404 |
 | 7 |  [mission_control-servers](https://github.com/kobaltz/mission_control-servers) | Monitor for Ruby on Rails applications&#39; server resources | kobaltz | 56 |
 | 8 |  [mission_control-jobs](https://github.com/rails/mission_control-jobs) | Dashboard and Active Job extensions to operate and troubleshoot background jobs | rails | 758 |
-| 9 |  [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | maybe-finance | 41098 |
+| 9 |  [maybe](https://github.com/maybe-finance/maybe) | The OS for your personal finances | maybe-finance | 41099 |
 | 10 |  [gush](https://github.com/chaps-io/gush) | Fast and distributed workflow runner using ActiveJob and Redis | chaps-io | 1069 |
 | 11 |  [pizza-dough](https://github.com/hendricius/pizza-dough) | This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. | hendricius | 3545 |
 | 12 |  [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) | Playwright client for Ruby | YusukeIwaki | 373 |
@@ -358,7 +358,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [campsite](https://github.com/campsite/campsite) | The Campsite monorepo | campsite | 4417 |
-| 2 |  [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | immich-app | 58892 |
+| 2 |  [immich](https://github.com/immich-app/immich) | High performance self-hosted photo and video management solution. | immich-app | 58893 |
 | 3 |  [autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal &amp; shell | withfig | 24717 |
 | 4 |  [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) | 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024 | Lissy93 | 17998 |
 | 5 |  [sqip](https://github.com/axe312ger/sqip) | &#34;SQIP&#34; (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique. | axe312ger | 3372 |
