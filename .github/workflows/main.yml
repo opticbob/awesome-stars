@@ -1,5 +1,5 @@
 name: 'Update by stargazed'
-# This workflow runs at 01:33 everyday
+# This workflow runs at 00:30 everyday
 on:
   schedule:
     -
